@@ -1,0 +1,15 @@
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\bin\Debug\StrafeClient.exe.config
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\bin\Debug\StrafeClient.exe
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\bin\Debug\StrafeClient.pdb
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.csproj.AssemblyReference.cache
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\MainWindow.g.cs
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\App.g.cs
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient_MarkupCompile.cache
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient_MarkupCompile.lref
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\MainWindow.baml
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.g.resources
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.Properties.Resources.resources
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.csproj.GenerateResource.cache
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.csproj.CoreCompileInputs.cache
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.exe
+C:\Users\Akro Games\OneDrive\Desktop\strafe-client\src\StrafeClient\StrafeClient\obj\Debug\StrafeClient.pdb
